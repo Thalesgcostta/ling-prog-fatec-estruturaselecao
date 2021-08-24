@@ -1,0 +1,35 @@
+footer{
+margin-left: 32%;
+margin-top: 20%;
+}
+body{
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div{
+    padding: 10px;
+}
+
+li {
+    padding: 5px;
+}
+
+main {
+    background-color: rgb(135, 200, 202);
+    border-radius: 20px;
+    padding: 10px;
+}
+h3{
+    font-size: 30px;
+    
+}
+label{
+    font-size: 23px;
+}
+input{
+    font-size: 23px;
+}
+#opcao{
+    font-size: 17px;
+}
